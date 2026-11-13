@@ -27,5 +27,5 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoriV2&bg_color=070707&title_color=FDCFF3&text_color=DE89BE&icon_color=FDCFF3&border_color=070707" alt="LoriV2 Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoriV2&hide_border=true&background=00000000&fire=FDCFF3&ring=DE89BE&currStreakNum=FDCFF3&sideNums=FDCFF3&currStreakLabel=DE89BE&sideLabels=DE89BE&dates=DE89BE" alt="LoriV2 Streak Stats" />
 </p>
